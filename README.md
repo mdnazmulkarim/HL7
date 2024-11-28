@@ -10,10 +10,10 @@
 
 **Some common Message Types**
 
-| Type | Description                                                  |
-|------|--------------------------------------------------------------|
-| ADT  | Admit, discharge, and transfer dmit, discharge, and transfer |
-| ACK  | General acknowledgment                                       |
+| Type | Description                     |
+|------|---------------------------------|
+| ADT  | Admit, discharge, and transfer  |
+| ACK  | General acknowledgment          |
 | BAR  | Add or change billing account|
 | DFT  | Detailed financial transaction|
 | MDM  | Medical document management|
